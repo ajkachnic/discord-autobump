@@ -1,7 +1,9 @@
-auto-bump
+# auto-bump
+by andrew kachnic
 
 ## Setup
 Run `npm install`
+
 Create a `.env` file and include the following variables
 ```
 TOKEN="your discord user authentication token"
