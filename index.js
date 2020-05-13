@@ -1,4 +1,4 @@
-const keepAlive = require('./keep_alive')
+require('./keep_alive')
 var cron = require('node-cron');
 const dotenv = require('dotenv').config()
 
